@@ -1,0 +1,44 @@
+
+  .contact{
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(aboutusBackground.jpg);
+    background-size: cover;
+  }
+
+  .content{
+    max-width: 800px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+  }
+
+  .container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+   .content p{
+    font-weight: 500;
+    color:bisque;
+   }
+
+   .text h3 
+   {
+    font-weight: 500;
+    color:aqua;
+   }
+
+  .text p {
+    font-weight: 500;
+    color: white;
+   }
+
